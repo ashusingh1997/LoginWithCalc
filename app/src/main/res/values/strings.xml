@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="textview1">USERNAME</string>
+    <string name="textview2">PASSWORD</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+</resources>
