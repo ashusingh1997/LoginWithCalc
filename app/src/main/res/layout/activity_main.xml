@@ -78,7 +78,6 @@
             android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:background="@drawable/round_shape_btn"
             android:text="Add"
             android:textSize="24sp"
             tools:layout_margin="10dip" />
@@ -90,7 +89,6 @@
             android:layout_weight="1"
             android:text="Subtract"
             android:textSize="24sp"
-            android:background="@drawable/round_shape_btn"
             tools:layout_margin="10dip" />
 
     </LinearLayout>
@@ -110,7 +108,6 @@
             android:layout_weight="1"
             android:text="Multiply"
             android:textSize="24sp"
-            android:background="@drawable/round_shape_btn"
             tools:layout_margin="10dip" />
 
         <Button
@@ -120,7 +117,6 @@
             android:layout_weight="1"
             android:text="Quotient"
             android:textSize="24sp"
-            android:background="@drawable/round_shape_btn"
             tools:layout_margin="10dip" />
     </LinearLayout>
 
@@ -139,7 +135,6 @@
             android:layout_weight="1"
             android:text="Remainder"
             android:textSize="24sp"
-            android:background="@drawable/round_shape_btn"
             tools:layout_margin="10dip" />
 
         <Button
@@ -149,7 +144,6 @@
             android:layout_weight="1"
             android:text="Equals"
             android:textSize="24sp"
-            android:background="@drawable/round_shape_btn"
             tools:layout_margin="10dip" />
     </LinearLayout>
 </LinearLayout>
